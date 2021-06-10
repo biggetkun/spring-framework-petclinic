@@ -388,7 +388,7 @@
               <responseDataOnError>false</responseDataOnError>
               <saveAssertionResultsFailureMessage>false</saveAssertionResultsFailureMessage>
               <assertionsResultsToSave>0</assertionsResultsToSave>
-              <bytes>true</bytes>
+              <bytes>false</bytes>
               <threadCounts>true</threadCounts>
             </value>
           </objProp>
